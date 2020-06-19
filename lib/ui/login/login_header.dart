@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'shared/test_styles.dart';
+import '../shared/test_styles.dart';
 
 
 class LoginHeader extends StatelessWidget {

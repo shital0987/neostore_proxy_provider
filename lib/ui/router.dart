@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
 import '../core/constants/app_constants.dart';
-import '../ui/login_view.dart';
+import 'login/login_view.dart';
 import 'home/home_view.dart';
 import '../ui/products/products_list_view.dart';
 
